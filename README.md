@@ -1,0 +1,2 @@
+# SharpMic
+.NET sound recorder
